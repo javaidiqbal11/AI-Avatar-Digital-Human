@@ -7,7 +7,7 @@ Whisper to transcript the audio, Eleven Labs to generate voice and Rhubarb Lip S
 to understand all the details of the repository can be found at [Monadical](https://monadical.com/posts/build-a-digital-human-with-large-language-models.html).
 
 The brain of this project is based on Open AI, where the avatar characteristics and the shape of the response are
-defined in the following code fragment:
+defined in the following code fragment given below:
 
 ```js
 import { ChatOpenAI } from "@langchain/openai";
