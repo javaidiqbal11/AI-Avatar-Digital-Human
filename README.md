@@ -101,7 +101,7 @@ The code performs four main tasks:
 
 The concept here is to craft a sequence of text accompanied by varied body movements (animations) and diverse facial expressions, aiming to imbue the digital human with a heightened sense of realism in its actions.
 
-## How it Operates
+## How it Operates?
 The system operates through two primary workflows, depending on whether the user input is in text or audio form:
 
 ### Workflow with Text Input:
