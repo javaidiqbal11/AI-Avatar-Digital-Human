@@ -197,5 +197,5 @@ Open [http://localhost:5173/](http://localhost:5173/) with your browser to see t
 * Rhubarb Lip-Sync: https://github.com/DanielSWolf/rhubarb-lip-sync
 * Ready Player me - Oculus OVR LipSync: https://docs.readyplayer.me/ready-player-me/api-reference/avatars/morph-targets/oculus-ovr-libsync
 * Ready Player me - Apple Arkit: https://docs.readyplayer.me/ready-player-me/api-reference/avatars/morph-targets/apple-arkit 
-* Mixamo - https://www.mixamo.com/,
+* Mixamo - https://www.mixamo.com/
 * GLFT -> React Three Fiber - https://gltf.pmnd.rs/)
