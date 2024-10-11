@@ -1,4 +1,4 @@
-# server configs 
+# server configration 
 
 import cors from "cors";
 import dotenv from "dotenv";
