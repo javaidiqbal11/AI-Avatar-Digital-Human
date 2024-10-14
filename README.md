@@ -140,7 +140,7 @@ It's recommended to have the paid version. With the free version, the avatar doe
 
 ### Installation
 
-1. Clone this repository:
+1. Clone this repository or download:
   
 ```bash
 git@github.com:asanchezyali/talking-avatar-with-ai.git
