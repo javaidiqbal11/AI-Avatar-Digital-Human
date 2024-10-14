@@ -185,7 +185,7 @@ yarn
 
 Open [http://localhost:5173/](http://localhost:5173/) with your browser to see the result.
 
-## References
+## References and Links
 * How ChatGPT, Bard and other LLMs are signaling an evolution for AI digital humans: https://www.digitalhumans.com/blog/how-chatgpt-bard-and-other-llms-are-signaling-an-evolution-for-ai-digital-humans
 * UnneQ Digital Humans: https://www.digitalhumans.com/
 * LLMs: Building a Less Artificial and More Intelligent AI Human: https://www.linkedin.com/pulse/llms-building-less-artificial-more-intelligent-ai-human/
