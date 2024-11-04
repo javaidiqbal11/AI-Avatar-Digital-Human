@@ -108,7 +108,8 @@ The system operates through two primary workflows, depending on whether the user
 1. **User Input:** The user enters text.
 2. **Text Processing:** The text is forwarded to the OpenAI GPT API for processing.
 3. **Audio Generation:** The response from GPT is relayed to the Eleven Labs TTS API to generate audio.
-
+4. **Viseme Generation:** The audio is then sent to Rhubarb Lip Sync to produce viseme metadata.
+5. **Synchronization:** The visemes are utilized to synchronize the digital human's lips with the audio.
 
 ### Workflow with Audio Input:
 1. **User Input:** The user submits audio.
