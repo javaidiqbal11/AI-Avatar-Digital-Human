@@ -113,6 +113,7 @@ The system operates through two primary workflows, depending on whether the user
 
 ### Workflow with Audio Input:
 1. **User Input:** The user submits audio.
+2. **Speech-to-Text Conversion:** The audio is transmitted to the OpenAI Whisper API to convert it into text.
 
 
 <div align="center">
